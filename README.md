@@ -2,6 +2,16 @@
 
 Portfolio-Website is a repository that houses my personal portfolio website, which showcases my skills, projects, and achievements. The website serves as a professional introduction and provides visitors with an overview of my work and experience in the field of web development.
 
+## Screenshots
+
+![Home](./assets/img/home.png)
+![Nav](./assets/img/nav.png)
+![Projects](./assets/img/projects.png)
+![Skills](./assets/img/skills.png)
+![Certificates](./assets/img/certificates.png)
+![Hire Me](./assets/img/hierme.png)
+
+
 ## Website Preview and Speciality
 
 🚀 Check out the live website: [debarshee.netlify.app](https://debarshee.netlify.app/)
@@ -17,34 +27,6 @@ The portfolio website has several features and highlights:
 4. **Skills and Expertise**: The portfolio website highlights my skills and areas of expertise in web development. Visitors can gain insights into the technologies, programming languages, frameworks, and tools that I am proficient in.
 
 5. **Resume and Contact Information**: The website provides a link to my resume for easy access. Additionally, visitors can find my contact information, allowing them to get in touch if they have any inquiries or opportunities.
-
-## Installation and Customization
-
-To deploy and customize your own version of the Portfolio-Website, follow these steps:
-
-1. Clone the repository:
-
-   ```
-   git clone https://github.com/debarshee2004/Portfolio-Website.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```
-   cd Portfolio-Website
-   ```
-
-3. Open the project files in your preferred text editor or integrated development environment (IDE).
-
-4. Customize the content, including the project details, skills, achievements, and contact information. Replace the existing content with your own information.
-
-5. Build and deploy the website to your preferred hosting platform or use a static site hosting service like Netlify or GitHub Pages.
-
-6. Make sure to update the necessary configuration files (e.g., `index.html`, `styles.css`, etc.) to reflect your changes and preferences.
-
-7. Test the website to ensure that all sections, links, and features are working correctly.
-
-8. Once satisfied with the changes, publish your customized portfolio website.
 
 ## Technologies Used
 
